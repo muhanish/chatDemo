@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "../.."
+    },
+    {
+      "path": "../../../../firebase_test1"
+    },
+    {
+      "path": "../../../../flutter_firestore/flutter_firestore_app"
+    }
+  ],
+  "settings": {}
+}
